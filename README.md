@@ -1,2 +1,2 @@
-# Cryptocurrency_usingAPI
+# Cryptocurrency_Clone_usingAPI
 Practice
